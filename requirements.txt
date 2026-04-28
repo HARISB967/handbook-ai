@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+supabase
+python-dotenv
+openai
+transformers
+torch
+pdfplumber
+PyPDF2
+lightrag-hku
+pgvector
+httpx
+python-multipart
